@@ -1,1 +1,3 @@
-console.log(name)
+war index = require("./index.js")
+
+console.log(index.name)
